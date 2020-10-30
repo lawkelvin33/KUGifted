@@ -13,5 +13,6 @@
 ## [6th](https://drive.google.com/file/d/1-w-09L4a9FCOFM5SMDlOyP1qpFUwhX23/view?usp=sharing)
 #### Drone Vision I: Face detection, Predicts emotions (by drone), R&E
 ## [7th](https://drive.google.com/file/d/1HCAEVmCEMS157_NbU7gTvw1al0uSNDvA/view?usp=sharing)
-#### Drone VIsion II: Processing video from drone  by openCV 
-## First_Place : Mask detection system implemented using DNN (Vision and Drone)
+#### Drone Vision II: Processing video from drone  by openCV 
+## [First_Place](https://github.com/lawkelvin33/KUGifted/tree/master/ComputerVisionDrone/First_Place)
+#### Drone and Vision Final Project : Mask detection system implemented using DNN (Vision and Drone)
