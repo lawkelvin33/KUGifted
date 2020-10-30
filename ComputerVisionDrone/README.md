@@ -15,4 +15,4 @@
 ## [7th](https://drive.google.com/file/d/1HCAEVmCEMS157_NbU7gTvw1al0uSNDvA/view?usp=sharing)
 #### Drone Vision II: Processing video from drone  by openCV 
 ## [First_Place](https://github.com/lawkelvin33/KUGifted/tree/master/ComputerVisionDrone/First_Place)
-#### Drone & Vision Final Project : Mask detection system implemented using DNN (Vision and Drone)
+#### Drone & Vision Final Project : Mask detection system implemented using DNN (Integrated in Drone)
